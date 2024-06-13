@@ -543,7 +543,6 @@ header .header__inner .show-navbar {
 }
 .latest-articles .latest-articles__cards .latest-articles__card .card {
   width: 100%;
-  max-width: 400px;
 }
 .latest-articles .latest-articles__cards .latest-articles__card .card .card__thumbnail {
   width: 100%;
